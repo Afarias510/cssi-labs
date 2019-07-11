@@ -60,3 +60,4 @@ def get_move_name(short_move):
 
 
 # Write your code below - make RPS happen using the functions above!
+print(determine_winner(get_player_move(),get_computer_move()))

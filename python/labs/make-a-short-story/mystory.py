@@ -1,0 +1,7 @@
+print("Welcome to Elpollotonios madlibs")
+noun1 = raw_input("Give me a noun")
+adj = raw_input("Give me an adjective")
+verb = raw_input("Give me a verb ending with ing")
+car = raw_input("Give me the name of a car")
+place = raw_input("Give me a location")
+print("The " + adj +" " + noun1 + " was escaping " + place + " in a " + car + " for illegaly "+ verb)
